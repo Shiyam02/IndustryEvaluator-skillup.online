@@ -1,1 +1,1 @@
-# IndustryEvaluator-skillup.online
+# IndustryEvaluator@skillup.online
